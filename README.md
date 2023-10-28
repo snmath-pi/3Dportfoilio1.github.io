@@ -1,28 +1,11 @@
-# PostCSS
+## MgOpen typefaces
 
-<img align="right" width="95" height="95"
-     alt="Philosopher’s stone, logo of PostCSS"
-     src="https://postcss.org/logo.svg">
+# Source and License
 
-PostCSS is a tool for transforming styles with JS plugins.
-These plugins can lint your CSS, support variables and mixins,
-transpile future CSS syntax, inline images, and more.
+https://web.archive.org/web/20050528114140/https://ellak.gr/fonts/mgopen/index.en
 
-PostCSS is used by industry leaders including Wikipedia, Twitter, Alibaba,
-and JetBrains. The [Autoprefixer] and [Stylelint] PostCSS plugins is one of the most popular CSS tools.
+# Usage
 
----
+Use Facetype.js to generate typeface.json fonts: https://gero3.github.io/facetype.js/
 
-<img src="https://cdn.evilmartians.com/badges/logo-no-label.svg" alt="" width="22" height="16" />  Made in <b><a href="https://evilmartians.com/?utm_source=postcss&utm_campaign=devtools-button&utm_medium=github">Evil Martians</a></b>, product consulting for <b>developer tools</b>.
-
----
-
-[Abstract Syntax Tree]: https://en.wikipedia.org/wiki/Abstract_syntax_tree
-[Evil Martians]:        https://evilmartians.com/?utm_source=postcss
-[Autoprefixer]:         https://github.com/postcss/autoprefixer
-[Stylelint]:            https://stylelint.io/
-[plugins]:              https://github.com/postcss/postcss#plugins
-
-
-## Docs
-Read full docs **[here](https://postcss.org/)**.
+Collection of Google fonts as typeface data for usage with three.js: https://github.com/components-ai/typefaces
